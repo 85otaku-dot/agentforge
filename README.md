@@ -2,28 +2,24 @@
 
 > Build AI Agents in Minutes
 
-<p align="center">
-  <a href="https://ko-fi.com/agentforge">
-    <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-red?style=for-the-badge&logo=ko-fi" alt="Support on Ko-fi">
-  </a>
-</p>
+[![Support on Ko-fi](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-red?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/agentforge)
 
 ## Features
 
-- 馃殌 **One-Click Deploy** - Deploy your agent to Vercel in seconds
-- 馃帹 **Visual Builder** - Configure prompts without code
-- 馃攲 **Tool Integration** - Connect to 50+ services
-- 馃摝 **Pre-built Templates** - Start with ready-to-use agents
+- **One-Click Deploy** - Deploy your agent to Vercel in seconds
+- **Visual Builder** - Configure prompts without code
+- **Tool Integration** - Connect to 50+ services
+- **Pre-built Templates** - Start with ready-to-use agents
 
 ## Templates
 
 | Template | Description |
 |----------|-------------|
-| 馃挰 Customer Support | Smart customer service bot |
-| 鉁嶏笍 Content Writer | Content creation assistant |
-| 馃搳 Data Analyst | Data analysis assistant |
-| 馃憖 Code Reviewer | Code review assistant |
-| 馃摫 Social Media | Social media manager |
+| Customer Support | Smart customer service bot |
+| Content Writer | Content creation assistant |
+| Data Analyst | Data analysis assistant |
+| Code Reviewer | Code review assistant |
+| Social Media | Social media manager |
 
 ## Quick Start
 
@@ -54,9 +50,3 @@ Deploy to Vercel with one click:
 ## License
 
 MIT
-
----
-
-<div align="center">
-  <p>Built by <a href="https://ko-fi.com/agentforge">AgentForge</a></p>
-</div>
