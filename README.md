@@ -3,7 +3,7 @@
 > Build AI Agents in Minutes
 
 <p align="center">
-  <a href="https://ko-fi.com/marcusliu">
+  <a href="https://ko-fi.com/agentforge">
     <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-red?style=for-the-badge&logo=ko-fi" alt="Support on Ko-fi">
   </a>
 </p>
@@ -19,17 +19,17 @@
 
 | Template | Description |
 |----------|-------------|
-| 馃挰 Customer Support | Smart瀹㈡湇鏈哄櫒浜?|
-| 鉁嶏笍 Content Writer | 鍐呭鍒涗綔鍔╂墜 |
-| 馃搳 Data Analyst | 鏁版嵁鍒嗘瀽鍔╂墜 |
-| 馃憖 Code Reviewer | 浠ｇ爜瀹℃煡鍔╂墜 |
-| 馃摫 Social Media | 绀惧獟杩愯惀鍔╂墜 |
+| 馃挰 Customer Support | Smart customer service bot |
+| 鉁嶏笍 Content Writer | Content creation assistant |
+| 馃搳 Data Analyst | Data analysis assistant |
+| 馃憖 Code Reviewer | Code review assistant |
+| 馃摫 Social Media | Social media manager |
 
 ## Quick Start
 
 ```bash
 # Clone the repository
-git clone https://github.com/marcusliudev/agentforge.git
+git clone https://github.com/85otaku-dot/agentforge.git
 
 # Install dependencies
 cd agentforge
@@ -43,7 +43,7 @@ npm run dev
 
 Deploy to Vercel with one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/marcusliudev/agentforge)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/85otaku-dot/agentforge)
 
 ## Tech Stack
 
@@ -58,5 +58,5 @@ MIT
 ---
 
 <div align="center">
-  <p>Built by <a href="https://ko-fi.com/marcusliu">AgentForge</a></p>
+  <p>Built by <a href="https://ko-fi.com/agentforge">AgentForge</a></p>
 </div>
